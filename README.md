@@ -15,10 +15,10 @@
 ## 📂 Projects
 Here are some of my first coding projects:
 
-- [Guessing Game in C](https://github.com/yourusername/guessing-game)  
+- [Guessing Game in C](https://github.com/A-Yologlu/Guessing-Game)  
   A simple number guessing game where the computer picks a random number. Learned about loops, conditionals, and user input.  
 
-- [Rock paper scissors (points system)](https://github.com/yourusername/star-pattern)  
+- [Rock paper scissors (points system)](https://github.com/A-Yologlu/Rock-Paper-Scissors)  
   A small program that prints triangle/star patterns using loops.  
 
 - [Calculator in C](https://github.com/yourusername/calculator)  
