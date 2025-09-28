@@ -24,8 +24,8 @@ Here are some of my first coding projects:
 - [Rock paper scissors](https://github.com/A-Yologlu/Rock-Paper-Scissors)  
   A small rock paper scissors game with a points system, using loops.
 
-- [Calculator in C](https://github.com/yourusername/calculator)  
-  A command-line calculator that supports basic operations.  
+- [Calculator in C](https://github.com/A-Yologlu/Calculator)  
+  A command-line calculator that supports basic operations. Learned to create my own functions.  
 
 *(More projects coming soon as I learn!)*
 
