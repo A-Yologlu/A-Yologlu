@@ -2,7 +2,7 @@
 
 🎓 First-year Applied Computer Science student at Saxion University of Applied Sciences.  
 💻 Currently learning **C programming**, algorithms, and computer science fundamentals (partial electrical engineering).
-🥊 13 years of kickboxing experience as of 28/09/2025
+🥊 13 years of kickboxing experience as of september 2025.
 🥋 Started with judo in september of 2025.
 
 ---
