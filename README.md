@@ -1,14 +1,17 @@
-# 👋 Hi, I’m Anıl
+# 👋 Hi, I’m Anıl Yiğit Yoloğlu
 
 🎓 First-year Applied Computer Science student at Saxion University of Applied Sciences.  
-💻 Currently learning **C programming**, algorithms, and computer science fundamentals (partial electrical engineering).    
+💻 Currently learning **C programming**, algorithms, and computer science fundamentals (partial electrical engineering).
+🥊 13 years of kickboxing experience as of 28/09/2025
+🥋 Started with judo in september of 2025.
 
 ---
 
 ## 🔧 Skills & Tools (so far)
 - Programming: C, Python (beginner)  
 - Tools: GitHub, Visual Studio Code, WSL
-- Learning: Data structures, algorithms, software development basics  
+- Learning: Data structures, algorithms, software development basics
+- Basics of electrical engineering 
 
 ---
 
@@ -38,3 +41,4 @@ Here are some of my first coding projects:
 ## 📫 Connect with me
 - GitHub: [A-Yologlu](https://github.com/A-Yologlu)  
 - E-mail: yologluanil@outlook.com
+- Instagram: [Anıl Yiğit Yoloğlu](https://www.instagram.com/anilyologlu/)
