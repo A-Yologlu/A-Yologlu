@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Anıl Yiğit Yoloğlu
 
 🎓 First-year Applied Computer Science student at Saxion University of Applied Sciences.  
-💻 Currently learning **C programming**, algorithms, and computer science fundamentals (partial electrical engineering).
-🥊 13 years of kickboxing experience as of september 2025.
-🥋 Started with judo in september of 2025.
+💻 Currently learning **C programming**, algorithms, and computer science fundamentals (partial electrical engineering).  
+🥊 13 years of kickboxing experience as of september 2025.  
+🥋 Started with judo in september of 2025.  
 
 ---
 
