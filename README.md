@@ -39,6 +39,5 @@ Here are some of my first coding projects:
 ---
 
 ## 📫 Connect with me
-- GitHub: [A-Yologlu](https://github.com/A-Yologlu)  
 - E-mail: yologluanil@outlook.com
 - Instagram: [Anıl Yiğit Yoloğlu](https://www.instagram.com/anilyologlu/)
