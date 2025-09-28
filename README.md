@@ -21,8 +21,8 @@ Here are some of my first coding projects:
 - [Guessing Game in C](https://github.com/A-Yologlu/Guessing-Game)  
   A simple number guessing game where the computer picks a random number. Learned about loops, conditionals, and user input.  
 
-- [Rock paper scissors (points system)](https://github.com/A-Yologlu/Rock-Paper-Scissors)  
-  A small program that prints triangle/star patterns using loops.  
+- [Rock paper scissors](https://github.com/A-Yologlu/Rock-Paper-Scissors)  
+  A small rock paper scissors game with a points system, using loops.
 
 - [Calculator in C](https://github.com/yourusername/calculator)  
   A command-line calculator that supports basic operations.  
