@@ -16,25 +16,26 @@
 ---
 
 ## 📂 Projects
-Here are some of my first coding projects:
+Here are some of my projects, created throughout my school year:
 
 - [Guessing Game in C](https://github.com/A-Yologlu/Guessing-Game)  
-  A simple number guessing game where the computer picks a random number. Learned about loops, conditionals, and user input.  
+  In my first quarter I learned about the basics of C, aswell as: arrays, strings, loops, sorting, conditionals. 
 
 - [Rock paper scissors](https://github.com/A-Yologlu/Rock-Paper-Scissors)  
   A small rock paper scissors game with a points system, using loops.
 
 - [Calculator in C](https://github.com/A-Yologlu/Calculator)  
-  A command-line calculator that supports basic operations. Learned to create my own functions.  
+  A command-line calculator that supports basic operations. Learned to create my own functions.
 
+Each project reflects what I learned during that quarter — applying new programming concepts in practice.
 *(More projects coming soon as I learn!)*
 
 ---
 
 ## 🌱 What I’m working on right now
-- Improving my C programming skills  
-- Learning Git and GitHub workflow  
-- Building small projects to strengthen my problem-solving skills  
+- Improving my C programming skills.  
+- Learning Git and GitHub workflow.  
+- Creating a project that reflects back on what i learned, at the end of each quarter.  
 
 ---
 
