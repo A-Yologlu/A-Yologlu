@@ -2,8 +2,7 @@
 
 🎓 First-year Applied Computer Science student at Saxion University of Applied Sciences.  
 💻 Currently learning **C programming**, algorithms, and computer science fundamentals (partial electrical engineering).  
-🥊 13 years of kickboxing experience as of september 2025.  
-🥋 Started with judo in september of 2025.  
+🥊 13 years of kickboxing experience as of september 2025.   
 
 ---
 
@@ -21,8 +20,9 @@ Here are some of my projects, created throughout my school year:
 - [Project - Q1](https://github.com/A-Yologlu/Guessing-Game)  
   In my first quarter I learned about the basics of C, aswell as: arrays, strings, loops, sorting, conditionals. 
 
-Each project reflects what I learned during that quarter — applying new programming concepts in practice.
-*(More projects coming soon as I learn!)*
+Each project reflects what I learned during that quarter — applying new programming concepts in practice.  
+*(More projects coming soon as I learn!)*  
+*(Updated every 6-8 weeks)*
 
 ---
 
