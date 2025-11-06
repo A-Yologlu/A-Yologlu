@@ -21,8 +21,7 @@ Here are some of my projects, created throughout my school year:
   In my first quarter I learned about the basics of C, aswell as: arrays, strings, loops, sorting, conditionals. 
 
 Each project reflects what I learned during that quarter — applying new programming concepts in practice.  
-*(More projects coming soon as I learn!)*  
-*(Updated every 6-8 weeks)*
+*(More projects coming soon as I learn! - Updated every 6-8 weeks)*  
 
 ---
 
