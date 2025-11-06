@@ -18,14 +18,8 @@
 ## 📂 Projects
 Here are some of my projects, created throughout my school year:
 
-- [Guessing Game in C](https://github.com/A-Yologlu/Guessing-Game)  
+- [Project - Q1](https://github.com/A-Yologlu/Guessing-Game)  
   In my first quarter I learned about the basics of C, aswell as: arrays, strings, loops, sorting, conditionals. 
-
-- [Rock paper scissors](https://github.com/A-Yologlu/Rock-Paper-Scissors)  
-  A small rock paper scissors game with a points system, using loops.
-
-- [Calculator in C](https://github.com/A-Yologlu/Calculator)  
-  A command-line calculator that supports basic operations. Learned to create my own functions.
 
 Each project reflects what I learned during that quarter — applying new programming concepts in practice.
 *(More projects coming soon as I learn!)*
