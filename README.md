@@ -27,11 +27,10 @@ Each project reflects what I learned during that quarter — applying new progra
 
 ## 🌱 What I’m working on right now
 - Improving my C programming skills.  
-- Learning Git and GitHub workflow.  
-- Creating a project that reflects back on what i learned, at the end of each quarter.  
+- Learning about the basics of Electrical Engineering.  
+- Learning to code a Raspberry Pi Pico.
 
 ---
 
 ## 📫 Connect with me
 - E-mail: yologluanil@outlook.com
-- Instagram: [Anıl Yiğit Yoloğlu](https://www.instagram.com/anilyologlu/)
