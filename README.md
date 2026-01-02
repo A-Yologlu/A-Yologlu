@@ -17,7 +17,7 @@
 ## 📂 Projects
 Here are some of my projects, created throughout my school year:
 
-- [Project - Q1](https://github.com/A-Yologlu/Project---Q1/tree/main)  
+- [Project - Q1](https://github.com/A-Yologlu/Project---Q1/tree/main)  (not finished yet)
   In my first quarter I learned about the basics of C, aswell as: arrays, strings, loops, sorting, conditionals. 
 
 Each project reflects what I learned during that quarter — applying new programming concepts in practice.  
