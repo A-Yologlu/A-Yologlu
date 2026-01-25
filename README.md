@@ -3,15 +3,15 @@
 🎓 First-year Applied Computer Science student at Saxion University of Applied Sciences.  
 💻 Currently learning **C programming**, algorithms, and computer science fundamentals (partial electrical engineering).  
 🥊 Kickboxing, Judo & MMA.   
+🎮 Gaming  
 
 ---
 
 ## 🔧 Skills & Tools (so far)
-- Programming: C, Python (beginner)  
-- Tools: GitHub, Visual Studio Code, WSL
-- Learning: Data structures, algorithms, software development basics
+- Programming: C  
+- Tools: Visual Studio Code, WSL (Ubuntu)
 - Basics of electrical engineering 
-
+- Embedded Software: Programming Raspberry Pi Pico W (in C)
 ---
 
 ## 📂 Projects
@@ -28,11 +28,6 @@ Each project reflects what I learned during that quarter — applying new progra
 ---
 
 ## 🌱 What I’m working on right now
-- Improving my C programming skills.  
-- Learning about the basics of Electrical Engineering.  
-- Learning to code a Raspberry Pi Pico.
-
----
-
-## 📫 Connect with me
-- E-mail: yologluanil@outlook.com
+- Learning C++.  
+- Learning about Computer Networking.  
+- Learning about Software Engineering Techniques.
