@@ -22,7 +22,7 @@ Here are some of my projects, created throughout my first year:
 - [Project - Q2](https://github.com/A-Yologlu/Project---Q1/tree/main)  (not started yet)  
   In my second quarter I learned about pointers, structs & enums, heap & stack, linked lists and editing text files.
 
-Each project reflects what I learned during that quarter — applying new programming concepts in practice.  
+Each project reflects what I learned during that quarter.  
 *(More projects coming soon as I learn! - Updated every 6-8 weeks)*  
 
 ---
