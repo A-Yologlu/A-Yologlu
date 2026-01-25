@@ -17,12 +17,10 @@
 ## 📂 Projects
 Here are some of my projects, created throughout my first year:
 
-- [Project - Q1](https://github.com/A-Yologlu/Project---Q1/tree/main)  (not finished yet)  
-  In my first quarter I learned about the basics of C, aswell as: arrays, strings, loops, sorting, conditionals.
-- [Project - Q2](https://github.com/A-Yologlu/Project---Q1/tree/main)  (not started yet)  
-  In my second quarter I learned about pointers, structs & enums, heap & stack, linked lists and editing text files.
+- [Project - C programming Course]([https://github.com/A-Yologlu/Project---Q1/tree/main](https://github.com/A-Yologlu/C-programming-course-project))  (not finished yet)  
+  An advanced C programming project demonstrating core language fundamentals and second-quarter topics such as pointers, structs, dynamic memory allocation, and file handling.
 
-Each project reflects what I learned during that quarter.  
+Each project reflects what I learned during that course.  
 *(More projects coming soon as I learn! - Updated every 6-8 weeks)*  
 
 ---
