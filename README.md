@@ -15,13 +15,14 @@
 ---
 
 ## 📂 Projects
-Here are some of my projects, created throughout my first year:
+Here are some of my projects from my first year of Applied Computer Science:
 
-- [Project - C programming Course]([https://github.com/A-Yologlu/Project---Q1/tree/main](https://github.com/A-Yologlu/C-programming-course-project))  (not finished yet)  
-  An advanced C programming project demonstrating core language fundamentals and second-quarter topics such as pointers, structs, dynamic memory allocation, and file handling.
+- **[C Programming Course Project – Mastermind](https://github.com/A-Yologlu/C-programming-course-project)** *(work in progress)*  
+  A console-based implementation of the Mastermind game written in C.  
+  This project combines core C fundamentals with more advanced topics such as pointers, structs, dynamic memory management, and file I/O, with a focus on clean game logic and code structure.
 
-Each project reflects what I learned during that course.  
-*(More projects coming soon as I learn! - Updated every 6-8 weeks)*  
+Each project reflects my learning progress throughout the course.  
+*(More projects will be added as I continue learning — updated every 6–8 weeks.)* 
 
 ---
 
