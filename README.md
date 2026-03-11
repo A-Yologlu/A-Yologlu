@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Anıl Yiğit Yoloğlu
 
 🎓 First-year Applied Computer Science student at Saxion University of Applied Sciences.  
-💻 Currently learning **C programming**, algorithms, and computer science fundamentals (partial electrical engineering).  
+💻 Currently learning **C++**, Computer Networking, Software Engineering Techniques (Git etc.) and experimenting with Ubuntu dualboot.  
 🥊 Kickboxing, Judo & MMA.   
 🎮 Gaming  
 
@@ -9,7 +9,7 @@
 
 ## 🔧 Skills & Tools (so far)
 - Programming: C  
-- Tools: Visual Studio Code, WSL (Ubuntu)
+- Tools: Visual Studio Code, WSL (Ubuntu), PuTTy  
 - Basics of electrical engineering 
 - Embedded Software: Programming Raspberry Pi Pico W (in C)
 ---
@@ -29,4 +29,5 @@ Each project reflects my learning progress throughout the course.
 ## 🌱 What I’m working on right now
 - Learning C++.  
 - Learning about Computer Networking.  
-- Learning about Software Engineering Techniques.
+- Learning about Git & GitHub.
+- Experimenting with Linux (Ubuntu dualboot).
