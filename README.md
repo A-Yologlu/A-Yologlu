@@ -8,7 +8,7 @@
 ---
 
 ## 🔧 Skills & Tools (so far)
-- Programming: C  
+- Programming: C, C++ 
 - Tools: Visual Studio Code, WSL (Ubuntu), PuTTy  
 - Basics of electrical engineering 
 - Embedded Software: Programming Raspberry Pi Pico W (in C)
