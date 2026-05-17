@@ -17,12 +17,10 @@
 ## 📂 Projects
 Here are some of my projects from my first year of Applied Computer Science:
 
-- **[C Programming Course Project – Mastermind](https://github.com/A-Yologlu/C-programming-course-project)** *(work in progress)*  
-  A console-based implementation of the Mastermind game written in C.  
-  This project combines core C fundamentals with more advanced topics such as pointers, structs, dynamic memory management, and file I/O, with a focus on clean game logic and code structure.
+- **[Mini Shell in C++](https://github.com/A-Yologlu/Mini-Shell)** *(work in progress)*  
+  A Unix shell written in C++ supporting command execution, I/O redirection, and pipes.
 
-Each project reflects my learning progress throughout the course.  
-*(More projects will be added as I continue learning — updated every 6–8 weeks.)* 
+*(More projects will be added as I continue learning)* 
 
 ---
 
