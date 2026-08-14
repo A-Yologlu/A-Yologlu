@@ -1,3 +1,6 @@
+<div align="center">
+
+<pre>
 #####**###################**********************************####******    anilyigit@saxion
 ############****########***++**++++++**+******************####********    -----------------
 ############***####****++=--::--::----==++**************###***********    OS: Ubuntu (dualboot) + Windows
@@ -40,4 +43,24 @@
 ::.........................:--=-...................:==:..::::::::---..
 :..........................:=++:....................-=::.:::::::::--..
 ............................-*+.....................:--:..:::::::::-:.
-............................:**=:....................--::..:::::.:::
+............................:**=:....................--::..:::::.::: 
+</pre>
+
+</div>
+
+---
+
+## 📂 Projects
+
+- **[Mini Shell in C++](https://github.com/A-Yologlu/Mini-Shell)** *(work in progress)*
+  A Unix shell written in C++ (C++17), built from scratch with no external libraries. Supports command execution, I/O redirection, and pipes, with CMake + GitHub Actions CI across Linux/Windows/macOS.
+
+*(More projects will be added as I continue learning)*
+
+---
+
+## 🌱 Currently working on
+- Learning C++ and systems programming
+- Computer networking fundamentals
+- Software engineering techniques (Git & GitHub workflows, CI/CD)
+- Linux (Ubuntu dualboot)
